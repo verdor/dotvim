@@ -11,3 +11,9 @@ command! Status echo "All systems are go"
 if has ("autocmd")
   filetype plugin indent on
 endif
+if $COLORTERM == 'gnome-terminal'
+  set term=gnome-256color
+  colorscheme railscasts
+else
+  colorscheme default
+endif 

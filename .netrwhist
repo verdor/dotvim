@@ -1,9 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/samu/p/demo'
-let g:netrw_dirhist_2='/home/samu/p/demo/vendor'
-let g:netrw_dirhist_3='/home/samu/p/demo'
-let g:netrw_dirhist_4='/home/samu/Descargas'
-let g:netrw_dirhist_5='/home/samu/p/demo/app'
-let g:netrw_dirhist_6='/home/samu/p/demo/app/controllers'
-let g:netrw_dirhist_7='/home/samu/Descargas'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/samuel/src/psp/app/views/acta/10/4'
+let g:netrw_dirhist_2='/home/samuel/src/psp/app/views/acta/10/4/2'
+let g:netrw_dirhist_3='/home/samuel/src/psp/app/views/acta/10/4'
+let g:netrw_dirhist_4='/home/samuel/src/psp/app/views/acta/10/4/2'
