@@ -50,4 +50,9 @@ Install plugin vim-rails:
     git commit -m "Install plugin vim-rails"
 
 View the manual:
-    :help rails    
+    :help rails
+
+ERRORS:
+
+    'gnome-256color' not known ... # $ sudo apt-get install ncurses-term
+ 
